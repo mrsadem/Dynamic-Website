@@ -1,7 +1,6 @@
 <?
 	$xml = simplexml_load_file("staff.xml");
-	//echo "<h1>load</h1>"
- ?>
+?>
 
 
 
