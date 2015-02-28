@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<staff>
+	<ux id="71547">
+		<name>Candy</name>
+		<title>交互设计专家</title>
+		<tags>
+			<tag>逆生长</tag>
+			<tag>交互专家</tag>
+			<tag>supergirl</tag>
+		</tags>
+		<substaffs>
+			<substaff>彡多</substaff>
+			<substaff>酒一</substaff>
+			<substaff>施湿</substaff>
+		</substaffs>
+		<link>https://work.alibaba-inc.com/work/u/71547</link>
+	</ux>
+	<ux id="78291">
+		<name>Santo</name>
+		<title>交互设计师</title>
+		<tags>
+			<tag>影帝</tag>
+			<tag>交互稿很干净</tag>
+		</tags>
+		<link>https://work.alibaba-inc.com/work/u/78291</link>
+	</ux>
+	<ux id="72341">
+		<name>Jacy</name>
+		<title>高级交互设计师</title>
+		<tags>
+			<tag>爱喝酒</tag>
+			<tag>主持一哥</tag>
+			<tag>大咖</tag>
+		</tags>
+		<link>https://work.alibaba-inc.com/work/u/72341</link>
+	</ux>
+	<ux id="75549">
+		<name>COCO</name>
+		<title>交互设计专家</title>
+		<tags>
+			<tag>安静的美男子</tag>
+			<tag>P7厨师</tag>
+			<tag>玩世不恭</tag>
+		</tags>
+		<link>https://work.alibaba-inc.com/work/u/75549</link>
+	</ux>
+</staff>
